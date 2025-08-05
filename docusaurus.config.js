@@ -8,20 +8,20 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Office C2R Installers',
+  title: 'Office C2R Installers - Tải Bộ Cài Office Chính Thức',
   tagline: 'Tải xuống bộ cài Office C2R chính thức từ Microsoft',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://gravesoft.dev/',
+  url: 'https://office-installer.example.com/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'your-github-username', // Usually your GitHub org/user name.
-  projectName: 'gravesoft-vietnam', // Usually your repo name.
+  organizationName: 'office-installer', // Usually your GitHub org/user name.
+  projectName: 'office-c2r-installers', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -46,7 +46,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/gravesoft/gravesoft.dev/tree/main/',
+            'https://github.com/office-installer/office-c2r-installers/tree/main/',
         },
         blog: false,
         theme: {
@@ -67,9 +67,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/card.png',
       navbar: {
-        title: 'Office C2R Installers',
+        title: 'Office C2R Installers - Tải Bộ Cài Office',
         logo: {
-          alt: 'Office C2R Installers',
+          alt: 'Office C2R Installers - Tải Bộ Cài Office',
           src: 'img/logo.svg',
         },
         items: [],

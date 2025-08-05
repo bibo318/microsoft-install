@@ -1,10 +1,10 @@
 ---
 slug: /
 sidebar_position: 1
-sidebar_label: 📦 Bộ Cài Office C2R
+sidebar_label: 📦 Office C2R Installers
 ---
 
-# 📦 Bộ Cài Office C2R (Click-to-Run)
+# 📦 Office C2R Installers (Click-to-Run)
 
 Tải xuống các bộ cài đặt Office C2R chính thức từ Microsoft với tốc độ cao và hoàn toàn miễn phí.
 
@@ -13,7 +13,7 @@ Tải xuống các bộ cài đặt Office C2R chính thức từ Microsoft vớ
 ## 🌟 Tính Năng Nổi Bật
 
 ✨ **100% Chính Thức** - Trực tiếp từ Microsoft  
-🚀 **Tốc Độ Cao** - CDN tối ưu cho Việt Nam  
+🚀 **Tốc Độ Cao** - CDN tối ưu  
 🆓 **Hoàn Toàn Miễn Phí** - Không quảng cáo, không giới hạn  
 🔒 **An Toàn Tuyệt Đối** - Không virus, không malware  
 📱 **Dễ Sử Dụng** - Chỉ cần click và cài đặt  
@@ -222,13 +222,13 @@ Hỗ trợ đầy đủ tiếng Việt với:
 
 ## 🔗 Liên Kết Tải Xuống
 
-### 🌐 **Trang Chính Thức**
-**https://office-installer.gravesoft.dev/**
+### 🌐 **Trang Tải Xuống**
+**[Nhấn vào đây để tải xuống Office C2R Installers](https://office-installer.example.com/)**
 
-### 📱 **Liên Hệ Hỗ Trợ**
+### 📱 **Hỗ Trợ Kỹ Thuật**
 - 💬 **Discord:** Tham gia server để được hỗ trợ trực tiếp
 - 🐛 **GitHub:** Báo cáo lỗi hoặc đề xuất cải tiến
-- 📧 **Email:** support@gravesoft.dev
+- 📧 **Email:** support@example.com
 
 ---
 
@@ -248,7 +248,7 @@ Hỗ trợ đầy đủ tiếng Việt với:
 
 ---
 
-*Cảm ơn bạn đã tin tưởng và sử dụng dịch vụ của Gravesoft Vietnam! 💖*
+*Cảm ơn bạn đã sử dụng dịch vụ tải Office C2R Installers! 💖*
 
 **Phiên bản cập nhật:** 2024.12  
 **Tương thích:** Windows 10/11, macOS 10.14+  
