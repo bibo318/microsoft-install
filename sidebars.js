@@ -19,40 +19,7 @@ const sidebars = {
   // But you can create a sidebar manually
   
   tutorialSidebar: [
-    'intro',
-    {
-      type: 'category',
-      label: '🔧 Phần Mềm Của Chúng Tôi',
-      items: ['cas'],
-	  collapsed: false,
-    },
-    {
-      type: 'category',
-      label: '⬇️ Tải Windows / Office',
-      items: ['download_windows','office_c2r_links','office_c2r_custom'],
-	  collapsed: false,
-    },
-    {
-      type: 'category',
-      label: '📚 Hướng Dẫn',
-      items: ['bypass-russian-geoblock','in-place_repair_upgrade','fix-wpa-registry','fix_powershell','remove_malware','clean_install_windows'],
-	  collapsed: false,
-    },
-	{
-      type: 'doc',
-      id: 'news',
-      label: '📰 Tin Tức',
-    },
-	{
-      type: 'doc',
-      id: 'troubleshoot',
-      label: '🔧 Khắc Phục Sự Cố',
-    },
-	{
-      type: 'doc',
-      id: 'credits',
-      label: '👏 Tín Dụng',
-    },
+    'office-c2r-installers',
   ],
   
 };

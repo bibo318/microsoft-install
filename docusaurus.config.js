@@ -8,8 +8,8 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Gravesoft Vietnam',
-  tagline: 'Tạo ra phần mềm mã nguồn mở và miễn phí cho mọi người.',
+  title: 'Office C2R Installers',
+  tagline: 'Tải xuống bộ cài Office C2R chính thức từ Microsoft',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -67,58 +67,12 @@ const config = {
       // Replace with your project's social card
       image: 'img/card.png',
       navbar: {
-        title: 'Gravesoft Vietnam',
+        title: 'Office C2R Installers',
         logo: {
-          alt: 'Gravesoft Vietnam',
+          alt: 'Office C2R Installers',
           src: 'img/logo.svg',
         },
-        items: [
-          {
-            to: '/cas',
-            position: 'left',
-            label: 'Phần Mềm',
-          },
-          {
-            to: '/download_windows',
-            position: 'left',
-            label: 'Tải Windows / Office',
-          },
-          {
-            to: '/bypass-russian-geoblock',
-            position: 'left',
-            label: 'Hướng Dẫn',
-          },
-          {
-            to: '/news',
-            position: 'left',
-            label: 'Tin Tức',
-          },
-          {
-            to: '/credits',
-            position: 'left',
-            label: 'Tín Dụng',
-          },
-          {
-            to: '/troubleshoot',
-            position: 'right',
-            label: 'Khắc Phục Sự Cố',
-          },
-          /* {to: '/blog', label: 'Blog', position: 'left'}, */
-          {
-            href: 'https://discord.gg/yJ8phEmbw9',
-            className: 'discord-button',
-            position: 'right',
-            label: 'Discord',
-            "title": 'Trò chuyện với chúng tôi trên Discord',
-          },
-          {
-            href: 'https://github.com/your-github-username',
-            className: 'github-button',
-            position: 'right',
-            label: 'GitHub',
-            "title": 'Kho lưu trữ GitHub',
-          },
-        ],
+        items: [],
       },
       /*   footer: {
         style: 'dark',
