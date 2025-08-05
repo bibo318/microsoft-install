@@ -22,25 +22,37 @@ const sidebars = {
     'intro',
     {
       type: 'category',
-      label: 'Our Software',
+      label: '🔧 Phần Mềm Của Chúng Tôi',
       items: ['cas'],
 	  collapsed: false,
     },
     {
       type: 'category',
-      label: 'Download Windows / Office',
+      label: '⬇️ Tải Windows / Office',
       items: ['download_windows','office_c2r_links','office_c2r_custom'],
 	  collapsed: false,
     },
     {
       type: 'category',
-      label: 'Guides',
+      label: '📚 Hướng Dẫn',
       items: ['bypass-russian-geoblock','in-place_repair_upgrade','fix-wpa-registry','fix_powershell','remove_malware','clean_install_windows'],
 	  collapsed: false,
     },
-	'news',
-	'troubleshoot',
-	'credits',
+	{
+      type: 'doc',
+      id: 'news',
+      label: '📰 Tin Tức',
+    },
+	{
+      type: 'doc',
+      id: 'troubleshoot',
+      label: '🔧 Khắc Phục Sự Cố',
+    },
+	{
+      type: 'doc',
+      id: 'credits',
+      label: '👏 Tín Dụng',
+    },
   ],
   
 };

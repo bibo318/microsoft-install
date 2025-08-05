@@ -1,39 +1,56 @@
-# Gravesoft News
+# 📰 Tin Tức Gravesoft Vietnam
 
-### [19-Sep-24] Added Office 2024 Offline installers in all languages  
+## 🎉 Cập Nhật Mới Nhất
+
+### [19-09-2024] 🌍 Thêm bộ cài Office 2024 Offline cho tất cả ngôn ngữ  
 https://gravesoft.dev/office_c2r_links
 
-### [31-Aug-24] Added Office 2024 EN-US Offline installers  
-Added included apps column in the download links table  
+### [31-08-2024] 🇺🇸 Thêm bộ cài Office 2024 tiếng Anh  
+Bổ sung cột ứng dụng đi kèm trong bảng liên kết tải xuống  
 https://gravesoft.dev/office_c2r_links
 
-### [13-Aug-24] Added remove malware and clean install guide
+### [13-08-2024] 🛡️ Thêm hướng dẫn loại bỏ malware và cài đặt sạch
 https://gravesoft.dev/remove_malware  
 https://gravesoft.dev/clean_install_windows  
 
-### [8-Aug-24] Added Fix PowerShell guide
+### [08-08-2024] ⚡ Thêm hướng dẫn sửa lỗi PowerShell
 https://gravesoft.dev/fix_powershell
 
-### [16-June-24] Office 2024 online installers are added
+### [16-06-2024] 🌐 Thêm bộ cài Office 2024 trực tuyến
 https://gravesoft.dev/office_c2r_links
 
-### [24-May-24] CAS is added by abbodi1406
+### [24-05-2024] 🔍 CAS được thêm bởi abbodi1406
 https://gravesoft.dev/cas
 
-### [07-Apr-24] Added Fix WPA guide
+### [07-04-2024] 🔧 Thêm hướng dẫn sửa lỗi WPA
 https://github.com/gravesoft/gravesoft-site
 
-### [26-Mar-24] Added in-place repair guide
+### [26-03-2024] 🔄 Thêm hướng dẫn sửa chữa tại chỗ
 https://github.com/gravesoft/gravesoft-site
 
-### [25-Mar-24] Windows/Office download and guides added
+### [25-03-2024] 📥 Thêm tải xuống Windows/Office và hướng dẫn
 https://github.com/gravesoft/gravesoft-site
 
-### [11-Mar-24] msdl repo moved to gravesoft
+### [11-03-2024] 📦 Chuyển kho msdl sang gravesoft
 https://github.com/gravesoft/msdl
 
-### [10-Mar-24] gravesoft-site repo created
+### [10-03-2024] 🎨 Tạo kho gravesoft-site
 https://github.com/gravesoft/gravesoft-site
 
-### [29-Feb-24] Gravesoft org created on Github
+### [29-02-2024] 🏢 Tạo tổ chức Gravesoft trên Github
 https://github.com/gravesoft
+
+---
+
+## 🔔 Theo Dõi Cập Nhật
+
+Để không bỏ lỡ những tin tức mới nhất:
+
+⭐ **Star** repo GitHub của chúng tôi  
+👀 **Watch** để nhận thông báo  
+💬 Tham gia **Discord** để thảo luận  
+📧 **Subscribe** để nhận email thông báo  
+
+---
+
+*Cảm ơn bạn đã quan tâm và ủng hộ Gravesoft Vietnam! 💖*

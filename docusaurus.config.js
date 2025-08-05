@@ -8,8 +8,8 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Gravesoft',
-  tagline: 'People making open-source and free software.',
+  title: 'Gravesoft Vietnam',
+  tagline: 'Tạo ra phần mềm mã nguồn mở và miễn phí cho mọi người.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -20,8 +20,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Gravesoft', // Usually your GitHub org/user name.
-  projectName: 'Gravesoft.dev', // Usually your repo name.
+  organizationName: 'your-github-username', // Usually your GitHub org/user name.
+  projectName: 'gravesoft-vietnam', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -31,8 +31,8 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'vi',
+    locales: ['vi'],
   },
 
   presets: [
@@ -67,41 +67,41 @@ const config = {
       // Replace with your project's social card
       image: 'img/card.png',
       navbar: {
-        title: 'Gravesoft',
+        title: 'Gravesoft Vietnam',
         logo: {
-          alt: 'Gravesoft',
+          alt: 'Gravesoft Vietnam',
           src: 'img/logo.svg',
         },
         items: [
           {
             to: '/cas',
             position: 'left',
-            label: 'Our Software',
+            label: 'Phần Mềm',
           },
           {
             to: '/download_windows',
             position: 'left',
-            label: 'Download Windows / Office',
+            label: 'Tải Windows / Office',
           },
           {
             to: '/bypass-russian-geoblock',
             position: 'left',
-            label: 'Guides',
+            label: 'Hướng Dẫn',
           },
           {
             to: '/news',
             position: 'left',
-            label: 'News',
+            label: 'Tin Tức',
           },
           {
             to: '/credits',
             position: 'left',
-            label: 'Credits',
+            label: 'Tín Dụng',
           },
           {
             to: '/troubleshoot',
             position: 'right',
-            label: 'Troubleshoot',
+            label: 'Khắc Phục Sự Cố',
           },
           /* {to: '/blog', label: 'Blog', position: 'left'}, */
           {
@@ -109,14 +109,14 @@ const config = {
             className: 'discord-button',
             position: 'right',
             label: 'Discord',
-            "title": 'Chat with us on Discord',
+            "title": 'Trò chuyện với chúng tôi trên Discord',
           },
           {
-            href: 'https://github.com/gravesoft',
+            href: 'https://github.com/your-github-username',
             className: 'github-button',
             position: 'right',
             label: 'GitHub',
-            "title": 'GitHub repository',
+            "title": 'Kho lưu trữ GitHub',
           },
         ],
       },
